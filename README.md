@@ -40,7 +40,7 @@ pip install -r requirements.txt
  ```
 
 ```
-   python cctv.py
+python cctv.py
 
  ```
 
