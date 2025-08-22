@@ -40,16 +40,16 @@ CVSS Base Score v3:      7.3 / 10
 ## Usages 
 
 	usage: python cctv.py
-or,             python cctv.py --host 109.100.130.57 --port 8000
-or,             python cctv.py -m target.txt
+    or,       python cctv.py --host 109.100.130.57 --port 8000
+    or,       python cctv.py -m target.txt
 
 	[+] Obtaining Exposed credentials
 
-options:
-  -h, --help            show this help message and exit
-  --host HOST           Host
-  --port PORT           Port
-  -m MASS, --mass MASS  File with host:port or URL list
+    options:
+      -h, --help            show this help message and exit
+      --host HOST           Host
+      --port PORT           Port
+      -m MASS, --mass MASS  File with host:port or URL list
 
 
 ## Pocs (Output) :
