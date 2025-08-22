@@ -1,8 +1,8 @@
 #  [Exploit] DVR LOGIN BYPASS (CCTV-HACK)
-<s>  
+<strong>  
 CVE:                CVE-2018-9995<br>
 CVSS Base Score v3:      7.3 / 10
-</s>
+</strong>
 
 	
 ![DVR_wall](screenshot/videowall.jpg) 
