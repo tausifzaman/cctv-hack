@@ -28,18 +28,21 @@ CVSS Base Score v3:      7.3 / 10
 # TOOL: "CCTV-HACK"
 
 ## Installation Code
-'''
+```
 	git clone https://github.com/tausifzaman/cctv-hack
  ```
-```
+
+ ```
 cd cctv-hack
  ```
+
 	pip install -r requirements.txt
-```
+ ```
 ```
     python cctv.py
 
-'''
+ ```
+
 
 ## Usages 
 
