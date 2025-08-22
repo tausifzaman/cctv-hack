@@ -4,12 +4,9 @@
 <strong>  
  CVE-2018-9995
 </strong>
-</div>
 
-	
 ![DVR_wall](screenshot/videowall.jpg) 
 
-<div align=center>
 ### TOOL: "CCTV-HACK"
 </div>
 
