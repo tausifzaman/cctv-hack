@@ -9,8 +9,14 @@
 	
 ![DVR_wall](screenshot/videowall.jpg) 
 
-## TOOL: "CCTV-HACK"
+<div align=center>
+### TOOL: "CCTV-HACK"
+</div>
 
+## One Line Code 
+```
+git clone https://github.com/tausifzaman/cctv-hack && cd cctv-hack && pip install -r requirements.txt && python cctv.py
+```
 ## Installation Code
 ```
 git clone https://github.com/tausifzaman/cctv-hack
@@ -59,6 +65,3 @@ python cctv.py
 ![DVR_indoor_1](screenshot/in.jpg)
 ![DVR_indoor_2](screenshot/in1.jpg)
 ![DVR_indoor_3](screenshot/in2.jpg)
-
-
-
