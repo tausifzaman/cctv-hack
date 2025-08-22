@@ -10,7 +10,7 @@
 # On the Wild:
 
 ![DVR_dorks_2](screenshot/d1.jpg)
-![DVR_dorks_3](screenshot/d2.jpg)
+![DVR_dorks_3](screenshot/d2.png)
 
 ## Possible Banners frontend (web):
 ![DVR_login_1](screenshot/login1.jpg)
