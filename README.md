@@ -9,25 +9,7 @@
 	
 ![DVR_wall](screenshot/videowall.jpg) 
 
-
-# Dork:
-
-![DVR_dorks_2](screenshot/d1.jpg)
-![DVR_dorks_3](screenshot/d2.png)
-
-## Possible Banners frontend (web):
-![DVR_login_1](screenshot/login1.jpg)
-![DVR_login_2](screenshot/login2.jpg)
-![DVR_login_3](screenshot/login3.jpg)
-
-## Indoor:
-![DVR_indoor_1](screenshot/in.jpg)
-![DVR_indoor_2](screenshot/in1.jpg)
-![DVR_indoor_3](screenshot/in2.jpg)
-
-
-
-# TOOL: "CCTV-HACK"
+## TOOL: "CCTV-HACK"
 
 ## Installation Code
 ```
@@ -43,7 +25,6 @@ pip install -r requirements.txt
 
 ```
 python cctv.py
-
  ```
 
 
@@ -64,5 +45,20 @@ python cctv.py
 
 ## Pocs (Output) :
 ![DVR_poc_4](screenshot/output.jpg)
+# Dork:
+
+![DVR_dorks_2](screenshot/d1.jpg)
+![DVR_dorks_3](screenshot/d2.png)
+
+## Possible Banners frontend (web):
+![DVR_login_1](screenshot/login1.jpg)
+![DVR_login_2](screenshot/login2.jpg)
+![DVR_login_3](screenshot/login3.jpg)
+
+## Indoor:
+![DVR_indoor_1](screenshot/in.jpg)
+![DVR_indoor_2](screenshot/in1.jpg)
+![DVR_indoor_3](screenshot/in2.jpg)
+
 
 
