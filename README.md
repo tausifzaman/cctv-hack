@@ -8,7 +8,7 @@ CVSS Base Score v3:      7.3 / 10
 ![DVR_wall](screenshot/videowall.jpg) 
 
 
-# On the Wild:
+# Dork:
 
 ![DVR_dorks_2](screenshot/d1.jpg)
 ![DVR_dorks_3](screenshot/d2.png)
