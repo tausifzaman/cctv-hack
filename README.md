@@ -1,6 +1,11 @@
 <div align=center>
 	
 # DVR LOGIN BYPASS (CCTV-HACK)
+<p>
+ <img src="https://img.shields.io/github/stars/tausifzaman/cctv-hack?color=%23DF0067&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/forks/tausifzaman/cctv-hack?color=%239999FF&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/license/tausifzaman/cctv-hack?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
+</p>
 <strong>  
  CVE-2018-9995
 </strong>
