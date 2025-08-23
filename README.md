@@ -7,7 +7,7 @@
  <img src="https://img.shields.io/github/license/tausifzaman/cctv-hack?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
 </p>
 <strong>  
- CVE-2018-9995
+ An exploit for a DVR authentication bypass vulnerability
 </strong>
 <br>
 
