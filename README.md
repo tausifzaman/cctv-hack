@@ -11,7 +11,9 @@
 </strong>
 <br>
 <br>
+
 ![DVR_wall](screenshot/videowall.jpg) 
+
 </div>
 
 ## One Line Code 
