@@ -10,10 +10,8 @@
  An exploit for a DVR authentication bypass vulnerability
 </strong>
 <br>
-
+<br>
 ![DVR_wall](screenshot/videowall.jpg) 
-
-### TOOL: "CCTV-HACK"
 </div>
 
 ## One Line Code 
